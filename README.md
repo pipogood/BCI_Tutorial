@@ -1,6 +1,6 @@
 This repository provides guidelines for BCI preprocessing code for students in the DMT 461 and MMI 461 classes.
 
-Main File Contents:
+**Main File Contents**:
 
 SSVEP_offline.ipynb -> Basic preprocessing and machine learning model training using SSVEP data recorded from Biosemi Active II.
 
